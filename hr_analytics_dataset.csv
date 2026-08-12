@@ -1,0 +1,151 @@
+EmployeeID,EmpName,Age,Gender,MaritalStatus,Education,Department,JobRole,HireDate,YearsAtCompany,MonthlyIncome,DistanceFromHome_km,OverTime,NumCompaniesWorked,TrainingTimesLastYear,JobSatisfaction,PerformanceRating,WorkLifeBalance,Attrition
+E1001,Jennifer Miller,37,Male,Single,High School,Operations,Operations Executive,09-12-2016,10,68340,7,Yes,4,3,2,3,2,Yes
+E1002,Arjun Brown,37,Female,Single,PhD,Finance,Financial Analyst,15-04-2017,9,83921,28,No,2,1,3,3,2,No
+E1003,Anjali Subramanian,36,Female,Married,Bachelor's,Sales,Sales Manager,09-10-2019,7,74626,35,Yes,3,0,1,5,4,No
+E1004,Karthik Garcia,30,Male,Married,Master's,Operations,Operations Executive,08-11-2019,7,64469,7,No,2,3,3,3,2,No
+E1005,Anjali Pillai,30,Female,Single,Master's,Marketing,Content Strategist,22-12-2017,9,74010,35,Yes,1,3,1,4,2,Yes
+E1006,Rohit Iyer,29,Male,Divorced,PhD,Customer Support,Support Executive,26-01-2021,5,46411,5,Yes,4,5,3,4,3,No
+E1007,William Menon,21,Male,Married,High School,Marketing,Marketing Manager,24-04-2026,0,52241,38,No,2,1,3,5,4,No
+E1008,Aditya Menon,35,Male,Married,High School,Customer Support,Support Executive,21-03-2015,11,63284,39,Yes,3,3,2,5,4,No
+E1009,Thomas Menon,54,Female,Single,High School,Operations,Operations Executive,11-11-2024,2,54730,11,No,0,5,1,3,4,No
+E1010,Karthik Martinez,37,Male,Single,High School,Customer Support,Support Team Lead,12-03-2018,8,74989,39,No,3,0,2,4,1,Yes
+E1011,Swati Reddy,29,Male,Single,Bachelor's,Marketing,Content Strategist,24-02-2023,3,48999,9,No,4,1,4,3,2,No
+E1012,Manoj Pillai,40,Female,Single,Bachelor's,Operations,Operations Manager,21-11-2015,11,59286,8,Yes,1,0,3,4,4,No
+E1013,Nisha Jones,29,Male,Divorced,PhD,Sales,Sales Executive,03-04-2018,8,64933,33,Yes,2,5,1,3,1,No
+E1014,Patricia Brown,24,Female,Single,PhD,Marketing,Marketing Manager,04-04-2023,3,47591,23,No,3,3,1,5,4,No
+E1015,Robert Nair,35,Male,Divorced,High School,Operations,Operations Manager,07-04-2017,9,43983,9,No,1,2,2,4,4,No
+E1016,Patricia Garcia,30,Male,Married,High School,Sales,Account Manager,25-02-2025,1,48299,32,No,1,6,2,3,4,No
+E1017,Patricia Kumar,35,Female,Single,High School,HR,HR Manager,14-05-2012,14,90581,19,Yes,0,4,4,3,2,No
+E1018,Linda Krishnan,33,Male,Single,High School,Finance,Accountant,17-01-2014,12,71386,39,Yes,5,6,1,3,1,Yes
+E1019,Karen Nair,40,Female,Married,High School,Finance,Financial Analyst,19-11-2017,9,61042,21,Yes,2,3,3,3,2,Yes
+E1020,David Nair,34,Male,Divorced,Master's,Sales,Sales Manager,18-02-2014,12,80029,9,No,0,1,2,4,3,No
+E1021,Elizabeth Rodriguez,36,Male,Married,Bachelor's,Finance,Finance Manager,27-11-2026,0,40379,9,No,0,0,3,5,1,No
+E1022,Sarah Johnson,33,Male,Single,Master's,Operations,Operations Manager,21-11-2026,0,41696,17,Yes,0,5,3,4,4,No
+E1023,Elizabeth Pillai,38,Female,Single,Master's,Customer Support,Support Executive,24-03-2024,2,60652,36,Yes,0,0,4,4,4,No
+E1024,Michael Sharma,37,Male,Divorced,PhD,Finance,Finance Manager,05-07-2017,9,83143,3,No,1,5,1,3,3,Yes
+E1025,Sneha Davis,27,Male,Married,Bachelor's,Finance,Finance Manager,28-04-2020,6,56289,2,Yes,5,2,2,3,4,No
+E1026,Joseph Davis,32,Female,Single,Bachelor's,Customer Support,Support Executive,28-01-2026,0,58977,30,No,2,6,4,3,2,No
+E1027,Thomas Garcia,32,Female,Divorced,Master's,HR,HR Manager,25-02-2019,7,57575,35,No,0,0,3,3,4,No
+E1028,James Menon,41,Female,Divorced,Bachelor's,Sales,Sales Executive,24-06-2021,5,78218,25,Yes,2,0,3,4,1,No
+E1029,Charles Pillai,33,Male,Single,Bachelor's,IT,QA Engineer,11-11-2022,4,67042,20,No,5,3,3,5,1,No
+E1030,Manoj Subramanian,26,Female,Divorced,Master's,HR,Recruiter,24-11-2021,5,66910,26,Yes,2,2,2,4,3,Yes
+E1031,Arjun Williams,58,Female,Single,Master's,HR,HR Manager,07-11-2012,14,68955,6,No,4,5,4,5,2,No
+E1032,Ananya Rao,32,Male,Married,Bachelor's,Marketing,Marketing Specialist,02-01-2024,2,38413,30,No,5,4,2,4,1,Yes
+E1033,Linda Nair,34,Male,Single,PhD,Marketing,Content Strategist,25-02-2023,3,48911,34,No,0,4,4,3,2,No
+E1034,Anjali Rodriguez,48,Female,Divorced,PhD,Operations,Operations Manager,27-10-2022,4,61968,11,No,3,2,4,4,4,No
+E1035,Joseph Iyer,29,Female,Divorced,Bachelor's,Operations,Operations Executive,03-08-2018,8,47059,22,No,4,0,3,3,3,No
+E1036,Manoj Smith,46,Male,Divorced,PhD,Operations,Operations Executive,14-07-2015,11,82384,27,Yes,1,6,3,4,4,No
+E1037,Ananya Kumar,41,Female,Divorced,PhD,HR,HR Executive,25-05-2015,11,76445,32,Yes,2,3,4,4,2,No
+E1038,Patricia Rodriguez,30,Female,Married,Master's,Operations,Operations Executive,20-03-2017,9,50715,6,No,1,6,1,4,1,No
+E1039,Patricia Sharma,44,Female,Single,High School,Marketing,Marketing Manager,25-06-2015,11,74606,17,Yes,3,0,4,3,4,No
+E1040,Susan Nair,39,Male,Divorced,Master's,Customer Support,Support Executive,07-04-2026,0,41930,16,Yes,3,5,1,4,2,Yes
+E1041,Ananya Iyer,30,Male,Divorced,Bachelor's,Customer Support,Support Team Lead,20-10-2023,3,34937,7,Yes,2,4,1,3,3,No
+E1042,Karthik Williams,23,Male,Divorced,Master's,Sales,Account Manager,23-02-2024,2,37771,37,Yes,2,4,3,5,1,No
+E1043,Sarah Subramanian,21,Female,Divorced,PhD,Sales,Sales Manager,14-02-2026,0,49146,10,No,1,5,3,5,4,No
+E1044,Ananya Kumar,25,Female,Single,PhD,HR,HR Manager,28-06-2022,4,65978,29,Yes,6,3,2,3,3,No
+E1045,Richard Williams,32,Male,Single,PhD,Customer Support,Support Team Lead,07-08-2019,7,67348,18,No,4,0,3,3,3,No
+E1046,Karen Krishnan,26,Male,Married,PhD,HR,Recruiter,16-12-2026,0,61847,6,No,1,3,4,4,1,No
+E1047,Richard Kumar,27,Female,Single,Bachelor's,Finance,Finance Manager,24-07-2020,6,50130,18,No,2,1,3,3,4,No
+E1048,Nisha Jones,21,Female,Married,High School,Marketing,Marketing Specialist,24-05-2026,0,44681,19,Yes,2,1,3,3,2,Yes
+E1049,Barbara Johnson,33,Female,Married,PhD,Sales,Account Manager,05-12-2020,6,64138,37,No,3,3,4,3,1,No
+E1050,Sneha Subramanian,37,Female,Divorced,Bachelor's,Sales,Sales Executive,03-08-2024,2,46891,37,No,0,1,1,3,2,Yes
+E1051,Thomas Williams,36,Female,Single,Bachelor's,Customer Support,Support Team Lead,10-08-2017,9,91194,40,Yes,6,1,4,3,1,No
+E1052,Aditya Williams,43,Male,Divorced,Bachelor's,Marketing,Content Strategist,01-03-2016,10,79023,19,Yes,1,2,4,4,4,No
+E1053,Karen Subramanian,39,Female,Divorced,Master's,IT,IT Support,18-02-2022,4,47571,18,Yes,0,0,2,5,2,Yes
+E1054,Priya Subramanian,45,Female,Married,High School,HR,HR Executive,10-12-2016,10,86707,29,Yes,4,0,4,3,4,No
+E1055,Sarah Garcia,38,Male,Divorced,PhD,Sales,Sales Executive,27-11-2018,8,71521,12,No,4,5,3,4,1,No
+E1056,Charles Iyer,26,Male,Divorced,High School,Operations,Operations Manager,12-08-2021,5,50704,7,Yes,2,3,4,3,3,No
+E1057,Karthik Subramanian,30,Female,Married,PhD,HR,HR Executive,11-05-2023,3,62790,35,No,3,0,1,4,1,Yes
+E1058,Jessica Garcia,34,Male,Married,High School,Customer Support,Support Executive,18-05-2024,2,45613,32,Yes,0,5,2,3,4,No
+E1059,Sarah Reddy,28,Male,Married,PhD,Finance,Accountant,27-04-2019,7,59260,10,No,5,2,1,4,1,No
+E1060,James Martinez,26,Male,Divorced,Master's,Marketing,Marketing Manager,07-07-2025,1,66099,27,No,6,4,2,3,3,Yes
+E1061,Jessica Krishnan,37,Male,Married,Bachelor's,Customer Support,Support Team Lead,18-08-2018,8,76117,36,No,3,2,4,3,3,No
+E1062,Manoj Kumar,31,Male,Single,PhD,Customer Support,Support Team Lead,24-06-2016,10,76673,25,Yes,3,0,4,5,4,Yes
+E1063,Rahul Williams,21,Female,Married,PhD,Sales,Account Manager,24-01-2026,0,46427,5,No,6,2,2,4,2,Yes
+E1064,Michael Nair,36,Male,Single,Master's,IT,QA Engineer,03-10-2018,8,74381,15,Yes,3,0,2,5,3,No
+E1065,Barbara Garcia,41,Female,Single,High School,Sales,Sales Executive,10-01-2024,2,37222,10,Yes,4,3,3,3,4,No
+E1066,Aditya Martinez,31,Male,Divorced,Bachelor's,Finance,Accountant,19-08-2026,0,57783,17,No,2,5,2,3,4,Yes
+E1067,Michael Davis,28,Female,Married,Master's,Sales,Sales Manager,10-10-2019,7,65287,30,No,1,3,4,5,3,No
+E1068,Charles Davis,39,Female,Divorced,Master's,Finance,Accountant,27-01-2013,13,90732,37,Yes,4,5,4,3,1,No
+E1069,Karthik Jones,35,Male,Single,Master's,Marketing,Content Strategist,09-10-2021,5,42897,3,No,6,3,2,5,1,Yes
+E1070,Charles Kumar,35,Male,Single,PhD,IT,QA Engineer,05-04-2023,3,52311,11,No,6,3,3,4,3,No
+E1071,Aditya Sharma,26,Male,Divorced,Master's,Sales,Sales Executive,24-11-2022,4,64445,6,No,0,2,4,4,3,No
+E1072,Anjali Nair,30,Female,Divorced,Master's,Finance,Accountant,22-02-2019,7,49150,40,No,4,1,2,4,1,No
+E1073,Aditya Sharma,37,Male,Divorced,PhD,Operations,Operations Manager,02-03-2026,0,56286,8,Yes,1,4,1,3,4,Yes
+E1074,Meera Davis,39,Male,Married,High School,Finance,Finance Manager,21-07-2021,5,94233,18,Yes,5,2,1,4,4,Yes
+E1075,Swati Smith,26,Female,Single,Master's,Operations,Operations Manager,13-01-2021,5,47710,30,Yes,5,1,3,3,1,No
+E1076,Swati Smith,33,Male,Married,Bachelor's,Marketing,Marketing Specialist,27-02-2019,7,67460,15,No,6,1,2,4,2,No
+E1077,Thomas Johnson,43,Female,Single,PhD,Marketing,Content Strategist,04-03-2013,13,83955,23,Yes,4,2,1,3,1,Yes
+E1078,Sanjay Martinez,44,Male,Married,High School,Finance,Financial Analyst,15-08-2026,0,59064,29,Yes,4,0,3,4,1,No
+E1079,William Rodriguez,39,Female,Divorced,Master's,Sales,Sales Manager,22-07-2024,2,39714,5,Yes,2,4,1,4,4,Yes
+E1080,Sneha Kumar,45,Female,Married,PhD,HR,Recruiter,17-08-2026,0,49761,36,Yes,3,3,4,3,1,No
+E1081,Jennifer Williams,33,Male,Married,High School,HR,Recruiter,14-06-2014,12,77287,24,Yes,5,3,3,5,3,Yes
+E1082,Vikram Johnson,32,Male,Married,Master's,Operations,Operations Manager,02-09-2018,8,73568,27,No,6,5,3,5,1,No
+E1083,Joseph Reddy,32,Male,Divorced,High School,IT,Software Engineer,22-03-2015,11,76599,23,No,0,6,4,3,1,No
+E1084,Deepa Iyer,30,Female,Single,Bachelor's,Finance,Finance Manager,06-01-2022,4,64324,22,No,0,1,3,5,3,No
+E1085,Priya Krishnan,29,Male,Divorced,High School,Operations,Operations Executive,17-12-2024,2,40237,30,No,1,2,2,4,4,No
+E1086,Susan Menon,35,Male,Single,Master's,Sales,Sales Executive,02-10-2012,14,65051,28,No,4,3,1,3,4,No
+E1087,Susan Martinez,24,Female,Single,Bachelor's,HR,HR Executive,22-11-2023,3,69175,3,Yes,3,4,4,4,3,Yes
+E1088,Pooja Pillai,42,Female,Divorced,Master's,Customer Support,Support Team Lead,04-06-2026,0,45616,12,Yes,3,4,1,4,4,No
+E1089,Sneha Martinez,37,Male,Single,PhD,Sales,Sales Manager,01-07-2017,9,88847,37,No,4,3,4,3,3,No
+E1090,Jennifer Iyer,38,Male,Married,Master's,Sales,Sales Manager,15-10-2018,8,71165,7,Yes,3,4,3,3,4,No
+E1091,Elizabeth Davis,28,Male,Single,Bachelor's,Marketing,Marketing Manager,17-02-2020,6,62344,23,No,5,6,1,4,2,No
+E1092,Ravi Kumar,45,Male,Divorced,Master's,IT,IT Support,05-10-2026,0,45087,30,No,5,4,1,3,4,No
+E1093,Patricia Sharma,32,Male,Married,High School,Marketing,Marketing Manager,15-08-2015,11,64253,23,Yes,2,3,3,3,1,No
+E1094,Meera Brown,31,Female,Married,High School,Operations,Operations Executive,19-08-2016,10,79107,21,No,4,1,1,4,2,No
+E1095,Arjun Subramanian,21,Male,Single,Master's,Finance,Finance Manager,08-01-2026,0,69004,24,No,2,3,4,4,2,No
+E1096,Elizabeth Sharma,33,Male,Married,PhD,Sales,Sales Manager,22-09-2014,12,68584,39,Yes,2,0,4,3,3,No
+E1097,Karthik Smith,30,Male,Married,Master's,Marketing,Content Strategist,18-05-2017,9,74647,9,Yes,5,5,4,5,3,No
+E1098,Nisha Menon,30,Female,Single,Master's,Marketing,Marketing Specialist,07-08-2017,9,80567,5,No,6,6,2,3,2,Yes
+E1099,Jessica Nair,41,Female,Divorced,Master's,Customer Support,Support Executive,06-03-2015,11,66368,29,Yes,3,2,2,5,2,No
+E1100,Ananya Menon,38,Male,Divorced,PhD,Customer Support,Support Team Lead,08-09-2023,3,37249,24,No,3,6,3,4,2,No
+E1101,Sarah Nair,30,Male,Divorced,Bachelor's,Marketing,Marketing Specialist,02-05-2017,9,72756,34,Yes,2,0,4,3,1,No
+E1102,Ananya Williams,51,Male,Married,Bachelor's,Customer Support,Support Team Lead,27-04-2023,3,60107,27,Yes,3,4,4,3,1,No
+E1103,William Rao,23,Male,Married,High School,Sales,Sales Manager,21-12-2024,2,26112,3,No,6,3,3,3,2,No
+E1104,Jessica Reddy,27,Female,Divorced,PhD,Sales,Sales Executive,27-04-2020,6,79935,8,No,1,2,2,4,4,Yes
+E1105,Jessica Krishnan,33,Female,Married,Bachelor's,Sales,Sales Executive,18-10-2014,12,84980,10,No,3,0,1,5,2,No
+E1106,Divya Williams,35,Female,Married,Bachelor's,Operations,Operations Executive,17-02-2014,12,81934,3,No,2,2,1,4,4,No
+E1107,William Williams,37,Female,Divorced,PhD,Operations,Operations Executive,02-03-2021,5,77316,12,No,5,3,3,4,3,No
+E1108,John Miller,24,Male,Married,Master's,Sales,Sales Manager,26-01-2023,3,55247,20,No,6,4,2,3,3,No
+E1109,Rohit Sharma,37,Female,Divorced,Master's,Customer Support,Support Executive,04-05-2015,11,81795,29,No,2,1,3,4,4,No
+E1110,Karen Nair,29,Female,Divorced,PhD,Customer Support,Support Executive,14-02-2018,8,78161,21,Yes,0,2,2,4,3,No
+E1111,Patricia Williams,21,Female,Divorced,PhD,Marketing,Content Strategist,15-06-2026,0,29397,40,No,2,5,1,5,3,No
+E1112,Ananya Krishnan,34,Male,Single,Bachelor's,IT,IT Support,28-03-2019,7,71571,5,Yes,6,5,4,3,2,No
+E1113,Jessica Brown,26,Female,Single,Bachelor's,Operations,Operations Manager,15-06-2021,5,63045,34,No,3,2,1,4,2,No
+E1114,William Williams,36,Female,Married,Bachelor's,HR,Recruiter,04-09-2023,3,63614,14,No,5,3,3,3,4,No
+E1115,Anjali Garcia,21,Male,Married,Bachelor's,Operations,Operations Manager,28-11-2026,0,60366,5,No,2,6,3,5,3,Yes
+E1116,William Subramanian,35,Male,Single,High School,Sales,Sales Executive,26-04-2016,10,66748,36,No,3,6,4,3,3,No
+E1117,Sanjay Sharma,32,Female,Single,Bachelor's,IT,QA Engineer,14-09-2026,0,52059,9,No,5,0,4,4,1,No
+E1118,Joseph Sharma,24,Female,Divorced,Master's,Customer Support,Support Executive,28-09-2023,3,59595,20,Yes,1,2,1,3,2,No
+E1119,Manoj Jones,30,Female,Single,Master's,Customer Support,Support Executive,21-04-2019,7,64991,40,Yes,4,5,3,3,3,Yes
+E1120,Anjali Pillai,46,Male,Married,Master's,Customer Support,Support Executive,02-02-2013,13,65725,37,No,4,5,3,5,2,Yes
+E1121,Arjun Subramanian,29,Female,Single,Master's,HR,HR Executive,15-05-2023,3,62695,11,No,3,3,1,5,1,No
+E1122,Jessica Jones,25,Female,Single,High School,Customer Support,Support Team Lead,05-07-2022,4,70917,21,Yes,3,0,3,4,1,Yes
+E1123,Karen Rao,36,Female,Single,High School,IT,QA Engineer,28-04-2022,4,61975,13,Yes,3,4,2,3,3,No
+E1124,Kavya Martinez,34,Female,Divorced,High School,HR,Recruiter,07-04-2022,4,60935,19,No,4,6,3,3,1,No
+E1125,Karthik Pillai,39,Female,Married,High School,Customer Support,Support Executive,09-03-2026,0,52324,3,No,0,4,3,4,3,No
+E1126,Karthik Jones,29,Female,Single,PhD,HR,Recruiter,09-09-2026,0,49593,26,No,6,2,1,3,1,No
+E1127,Rahul Subramanian,28,Male,Divorced,Master's,Finance,Financial Analyst,05-01-2019,7,76443,10,Yes,2,4,3,4,4,No
+E1128,Manoj Martinez,21,Female,Divorced,High School,Finance,Accountant,19-12-2026,0,49356,24,No,5,0,3,4,1,No
+E1129,Ravi Iyer,40,Female,Single,Bachelor's,Finance,Accountant,26-11-2018,8,74762,38,No,1,4,2,5,1,No
+E1130,Ravi Rao,39,Male,Divorced,High School,Sales,Account Manager,01-04-2023,3,25450,10,No,5,1,4,3,4,No
+E1131,Divya Rodriguez,29,Male,Divorced,PhD,Operations,Operations Executive,11-09-2018,8,76389,21,Yes,3,4,4,4,4,No
+E1132,Sarah Martinez,37,Female,Single,PhD,Marketing,Marketing Specialist,10-09-2012,14,78505,14,No,2,3,2,3,3,No
+E1133,Susan Miller,34,Male,Divorced,Master's,HR,HR Manager,02-05-2013,13,84641,23,No,5,2,3,5,1,No
+E1134,Sneha Kumar,42,Female,Divorced,PhD,Finance,Finance Manager,04-03-2022,4,80718,34,Yes,5,1,2,3,1,Yes
+E1135,Patricia Williams,40,Male,Divorced,Bachelor's,Sales,Account Manager,18-01-2018,8,73004,31,Yes,6,2,2,4,4,Yes
+E1136,John Smith,48,Male,Married,High School,Finance,Finance Manager,14-03-2012,14,84854,32,Yes,5,6,2,3,4,No
+E1137,Aditya Rodriguez,37,Female,Divorced,Bachelor's,IT,Data Analyst,18-11-2015,11,65735,18,Yes,6,0,4,3,4,No
+E1138,Barbara Jones,34,Female,Married,Master's,Sales,Account Manager,19-05-2013,13,78222,28,No,0,3,2,3,4,No
+E1139,Jessica Johnson,30,Female,Divorced,High School,Marketing,Marketing Specialist,08-07-2025,1,49945,20,Yes,2,5,4,3,3,No
+E1140,William Rao,21,Male,Single,PhD,HR,HR Manager,22-07-2026,0,45948,19,No,4,1,3,5,1,Yes
+E1141,Karthik Williams,22,Female,Divorced,High School,Operations,Operations Manager,18-12-2025,1,30610,16,Yes,4,3,4,4,2,No
+E1142,Manoj Rao,36,Male,Single,PhD,Sales,Account Manager,18-10-2014,12,72753,34,No,0,5,2,3,3,Yes
+E1143,Mary Iyer,28,Female,Married,High School,Customer Support,Support Executive,17-03-2019,7,78821,36,No,5,6,4,4,1,No
+E1144,Sneha Garcia,21,Male,Single,PhD,Operations,Operations Executive,14-01-2026,0,40781,35,Yes,0,3,3,5,1,Yes
+E1145,William Davis,40,Female,Single,High School,IT,QA Engineer,13-07-2020,6,58080,23,Yes,1,4,1,5,2,Yes
+E1146,Linda Johnson,21,Female,Divorced,PhD,IT,QA Engineer,13-09-2026,0,39933,23,Yes,2,1,2,3,4,No
+E1147,Meera Davis,28,Male,Divorced,Bachelor's,Finance,Financial Analyst,03-04-2019,7,61921,29,Yes,1,5,1,4,1,Yes
+E1148,Sanjay Davis,39,Male,Married,Master's,Customer Support,Support Executive,10-09-2020,6,66432,37,No,1,2,2,5,3,No
+E1149,Sanjay Kumar,38,Male,Divorced,PhD,IT,Software Engineer,22-11-2013,13,95892,4,No,5,5,4,4,4,No
+E1150,Arun Reddy,29,Female,Married,Bachelor's,HR,HR Executive,06-07-2018,8,35489,20,Yes,6,3,4,3,2,No
