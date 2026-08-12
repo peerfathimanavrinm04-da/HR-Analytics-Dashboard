@@ -1,6 +1,7 @@
-# HR-Analytics-Dashboard
+# HR Analytics Dashboard
 ### Tools : SQL | Power BI
 <img src = "https://github.com/peerfathimanavrinm04-da/HR-Analytics-Dashboard/blob/42634d63cbd1c9ca36fe51b2f68990548a319b2e/Screenshot%20(66).png">
+<img src ="
 
 A single-page, interactive Power BI dashboard analyzing employee attrition drivers using a synthetic 150-employee HR dataset.
 
